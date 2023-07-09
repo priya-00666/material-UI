@@ -60,7 +60,7 @@
     }
   },
   "dependencies": {
-    "@babel/runtime": "^7.22.5",
+    "@babel/runtime": "^7.22.6",
     "@mui/base": "5.0.0-beta.6",
     "@mui/core-downloads-tracker": "^5.13.7",
     "@mui/system": "^5.13.7",
